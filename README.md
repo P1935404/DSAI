@@ -35,7 +35,12 @@ We would like to find out using which learning algorithm will be the most accura
 - Support Vector Machines (SVM)
 
 ## Conclusion/Insights gained
-- We concluded the Random Forest is the best classifier to classify mushorooms among the 3 classifiers. Users are recommended the use random forest to help verify whether the mushorooms are edible or poisonous.
-- Also, all 3 have attained a score of around 0.97, which we deem is good enough, we do not need to do ensembling.
+- We concluded the Random Forest is the best classifier to classify mushrooms among the 3 classifiers. Users are recommended the use random forest to help verify whether the mushorooms are edible or poisonous.
+- Also, all 3 have attained a score of around 0.97, which we deem is good enough, we do not need to do ensembling to increase the accuracy of the model.
+- We learnt our perception of determining the potential features that can influence the model the most through EDA is different from RFE:
+  - RFE: odor_f, gill-size_n, stalk-color-below-ring_w, bruises_f, stalk-root_c
+  - EDA: odor_n, odor_f, stalk-surface-above-ring_k, stalk-surface-below-ring_k, ring-type_p
+- The features for stalk-root and stalk-color-below-ring are found not to be effective predictors of the class (poisonous, edible). Therefore, we are going to ignore these 2 features when selecting for training data.
+- In conclusion, the most important features for training the model include the following: odor_f, gill-size_n, odor_n, stalk-surface-above-ring_k, stalk-surface-below-ring_k, ring-type_p, bruises_f
 
 ## What did we learn from this project?
