@@ -8,10 +8,12 @@ A mini project for SC1015 (Introduction to Data Science and Artificial Intellige
 - Park Jihae
   - eda
   - data preparation
-  - models
-- Leong Mininn Miko (contributions)
-  - data loading
-  - models
+  - RFE
+- Leong Mininn Miko
+  - Models:
+     - Logistic Regression
+     - Random Forest
+     - Support Vectors Machine
   - conclusions and evaluations
 
 ## Problem Statement
