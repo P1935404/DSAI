@@ -2,9 +2,17 @@
 A mini project for SC1015 (Introduction to Data Science and Artificial Intelligence)
 
 ## Team Members
-Ang Jo Wee (contributions)
-Park Jihae (contributions)
-Leong Mininn Miko (contributions)
+- Ang Jo Wee
+  - slides
+  - eda
+- Park Jihae
+  - eda
+  - data preparation
+  - models
+- Leong Mininn Miko (contributions)
+  - data loading
+  - models
+  - conclusions and evaluations
 
 ## Problem Statement
 Mushroom hunting, or "shrooming", has become increasingly popular as a recreational activity. However, correctly identifying edible mushrooms from poisonous ones can be challenging, even for experienced mushroom hunters. This poses a risk to the safety of mushroom hunters and their companions, as well as the general public if contaminated mushrooms are consumed.
