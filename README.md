@@ -27,6 +27,7 @@ Mushroom hunting, or "shrooming", has become increasingly popular as a recreatio
 The goal of this project is to develop an accurate and reliable machine learning model for mushroom classification that classifies edibile and poisonous mushrooms, enhancing the safety of mushroom hunting activities.
 
 ## Files
+- README.md
 - data.csv
 - index.ipynb (notebook)
 - index.html (html ver where you can view as a website)
