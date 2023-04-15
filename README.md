@@ -8,11 +8,11 @@ For wanting to get involved in the machine learning playground, fork the project
 ## Team Members
 - Ang Jo Wee
   - Slides
-- Park Jihae
+- Park Jihae @pimangnono
   - EDA
   - Data preparation
   - RFE
-- Leong Mininn Miko
+- Leong Mininn Miko @P1935404
   - Models:
      - Logistic Regression
      - Random Forest
