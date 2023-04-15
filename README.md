@@ -58,6 +58,6 @@ We would like to find out using which learning algorithm will be the most accura
   -   Logistic Regression
   -   Random Forest
   -   SVM
--   Evaluation:
-  -   Using train test accuracy score to check if there's any overfitting occurs
-  -   Using cross-validation to test the ability of a machine learning model to predict new data
+- Evaluation:
+  - Using train test accuracy score to check if there's any overfitting occurs
+  - Using cross-validation to test the ability of a machine learning model to predict new data
