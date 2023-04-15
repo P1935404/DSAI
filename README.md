@@ -48,3 +48,16 @@ We would like to find out using which learning algorithm will be the most accura
 - In conclusion, the most important features for training the model include the following: odor_f, gill-size_n, odor_n, stalk-surface-above-ring_k, stalk-surface-below-ring_k, ring-type_p, bruises_f
 
 ## What did we learn from this project?
+- Github & Google Colab: collaborating using them
+- Data preparation:
+  - learning how to one-hot encode data when the dataset we used is categorical
+  - learning how to change name of values
+- EDA:
+  - Learning that EDA is not necessarily graphs, putting them in text is also considered as EDA
+- Models Training:
+  -   Logistic Regression
+  -   Random Forest
+  -   SVM
+-   Evaluation:
+-     Using train test accuracy score to check if there's any overfitting occurs
+-     Using cross-validation to test the ability of a machine learning model to predict new data
