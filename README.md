@@ -61,3 +61,18 @@ We would like to find out using which learning algorithm will be the most accura
 - Evaluation:
   - Using train test accuracy score to check if there's any overfitting occurs
   - Using cross-validation to test the ability of a machine learning model to predict new data
+
+## References
+- Data Prep:
+  - https://www.kaggle.com/datasets/uciml/mushroom-classification
+  - https://datatofish.com/replace-values-pandas-dataframe/
+- EDA:
+  - https://www.w3schools.com/python/python_functions.asp
+  - https://seaborn.pydata.org/generated/seaborn.barplot.html
+- Model Training:
+  - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+  - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+  - https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+- Evaluation:
+  - https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
+  - https://scikit-learn.org/stable/modules/cross_validation.html
