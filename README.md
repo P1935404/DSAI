@@ -5,7 +5,7 @@ For the ease of reading click here: https://p1935404.github.io/DSAI/
 <br>
 For wanting to get involved in the machine learning playground, fork the project and have fun~
 
-## Team Members
+## Team Members & contribution
 - Ang Jo Wee
   - Slides
 - Park Jihae @pimangnono
@@ -13,6 +13,7 @@ For wanting to get involved in the machine learning playground, fork the project
   - Data preparation
   - RFE
 - Leong Mininn Miko @P1935404
+  - Slides
   - Models:
      - Logistic Regression
      - Random Forest
