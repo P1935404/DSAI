@@ -1,4 +1,5 @@
 # DSAI
+
 A mini project for SC1015 (Introduction to Data Science and Artificial Intelligence)
 <br>
 For the ease of reading click here: https://p1935404.github.io/DSAI/
@@ -6,25 +7,27 @@ For the ease of reading click here: https://p1935404.github.io/DSAI/
 For wanting to get involved in the machine learning playground, fork the project and have fun~
 
 ## Team Members & contribution
+
 - Ang Jo Wee
   - Slides
   - Video
 - Park Jihae @pimangnono
   - Slides
-  - EDA
   - Data preparation
+  - EDA
   - RFE
   - Video
 - Leong Mininn Miko @P1935404
   - Slides
   - Models:
-     - Logistic Regression
-     - Random Forest
-     - Support Vectors Machine
+    - Logistic Regression
+    - Random Forest
+    - Support Vectors Machine
   - Conclusions and evaluations
   - Video
 
 ## Problem Statement
+
 Mushroom hunting, or "shrooming", has become increasingly popular as a recreational activity. However, correctly identifying edible mushrooms from poisonous ones can be challenging, even for experienced mushroom hunters. This poses a risk to the safety of mushroom hunters and their companions, as well as the general public if contaminated mushrooms are consumed.
 
 ## Problem Motivation
@@ -32,6 +35,7 @@ Mushroom hunting, or "shrooming", has become increasingly popular as a recreatio
 The goal of this project is to develop an accurate and reliable machine learning model for mushroom classification that classifies edibile and poisonous mushrooms, enhancing the safety of mushroom hunting activities.
 
 ## Files
+
 - README.md
 - data.csv
 - SC1015_A140_Team2_MiniProject.ipynb (notebook)
@@ -39,12 +43,15 @@ The goal of this project is to develop an accurate and reliable machine learning
 - SC1015_A140_Team2_MiniProject.pptx (presentation deck)
 
 ## Models used
+
 We would like to find out using which learning algorithm will be the most accurate. We are comparing 3 models:
+
 - Logistic Regression
 - Random Forest
 - Support Vector Machines (SVM)
 
 ## Conclusion/Insights gained
+
 - We concluded the Random Forest is the best classifier to classify mushrooms among the 3 classifiers. Users are recommended the use random forest to help verify whether the mushorooms are edible or poisonous.
 - Also, all 3 have attained a score of around 0.97, which we deem is good enough, we do not need to do ensembling to increase the accuracy of the model.
 - We learnt our perception of determining the potential features that can influence the model the most through EDA is different from RFE:
@@ -56,6 +63,7 @@ We would like to find out using which learning algorithm will be the most accura
 - <b>Also, all 3 have attained a score of around 0.97, which we deem is good enough, we do not need to do ensembling to increase the accuracy.</b>
 
 ## What did we learn from this project?
+
 - Github & Google Colab: collaborating using them
 - Data preparation:
   - learning how to one-hot encode data when the dataset we used is categorical
@@ -63,14 +71,15 @@ We would like to find out using which learning algorithm will be the most accura
 - EDA:
   - Learning that EDA is not necessarily graphs, putting them in text is also considered as EDA
 - Models Training:
-  -   Logistic Regression
-  -   Random Forest
-  -   SVM
+  - Logistic Regression
+  - Random Forest
+  - SVM
 - Evaluation:
   - Using train test accuracy score to check if there's any overfitting occurs
   - Using cross-validation to test the ability of a machine learning model to predict new data
 
 ## References
+
 - Data Prep:
   - https://www.kaggle.com/datasets/uciml/mushroom-classification
   - https://datatofish.com/replace-values-pandas-dataframe/
