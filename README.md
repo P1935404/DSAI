@@ -4,7 +4,7 @@ A mini project for SC1015 (Introduction to Data Science and Artificial Intellige
 <br>
 For the ease of reading click here: https://p1935404.github.io/DSAI/
 <br>
-For wanting to get involved in the machine learning playground, fork the project and have fun~
+For those wanting to get involved in the machine learning playground, fork the project and have fun~
 
 ## Team Members & contribution
 
