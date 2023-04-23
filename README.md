@@ -8,10 +8,13 @@ For wanting to get involved in the machine learning playground, fork the project
 ## Team Members & contribution
 - Ang Jo Wee
   - Slides
+  - Video
 - Park Jihae @pimangnono
+  - Slides
   - EDA
   - Data preparation
   - RFE
+  - Video
 - Leong Mininn Miko @P1935404
   - Slides
   - Models:
@@ -19,6 +22,7 @@ For wanting to get involved in the machine learning playground, fork the project
      - Random Forest
      - Support Vectors Machine
   - Conclusions and evaluations
+  - Video
 
 ## Problem Statement
 Mushroom hunting, or "shrooming", has become increasingly popular as a recreational activity. However, correctly identifying edible mushrooms from poisonous ones can be challenging, even for experienced mushroom hunters. This poses a risk to the safety of mushroom hunters and their companions, as well as the general public if contaminated mushrooms are consumed.
