@@ -11,6 +11,8 @@ For those wanting to get involved in the machine learning playground, fork the p
 - Ang Jo Wee
   - Slides
   - Video
+  - EDA
+  - RFE
 - Park Jihae @pimangnono
   - Slides
   - Data preparation
