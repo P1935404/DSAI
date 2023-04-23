@@ -8,7 +8,7 @@ For those wanting to get involved in the machine learning playground, fork the p
 
 ## Team Members & contribution
 
-- Ang Jo Wee
+- Ang Jo Wee @joweeeee09
   - Slides
   - Video
   - EDA
