@@ -80,3 +80,6 @@ We would like to find out using which learning algorithm will be the most accura
 - Evaluation:
   - https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
   - https://scikit-learn.org/stable/modules/cross_validation.html
+- Additional Exploration:
+  - https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+  - https://www.kaggle.com/general/212697
