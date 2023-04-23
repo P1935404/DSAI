@@ -15,18 +15,18 @@ For those wanting to get involved in the machine learning playground, fork the p
   - RFE
 - Park Jihae @pimangnono
   - Slides
+  - Video
   - Data preparation
   - EDA
   - RFE
-  - Video
 - Leong Mininn Miko @P1935404
   - Slides
+  - Video
   - Models:
     - Logistic Regression
     - Random Forest
     - Support Vectors Machine
   - Conclusions and evaluations
-  - Video
 
 ## Problem Statement
 
