@@ -30,9 +30,9 @@ The goal of this project is to develop an accurate and reliable machine learning
 ## Files
 - README.md
 - data.csv
-- index.ipynb (notebook)
+- SC1015_A140_Team2_MiniProject.ipynb (notebook)
 - index.html (html ver where you can view as a website)
-- presentation.pptx (presentation deck)
+- SC1015_A140_Team2_MiniProject.pptx (presentation deck)
 
 ## Models used
 We would like to find out using which learning algorithm will be the most accurate. We are comparing 3 models:
