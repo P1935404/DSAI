@@ -61,7 +61,7 @@ We would like to find out using which learning algorithm will be the most accura
   - EDA: odor_n, odor_f, stalk-surface-above-ring_k, stalk-surface-below-ring_k, ring-type_p
 - The features for stalk-root and stalk-color-below-ring are found not to be effective predictors of the class (poisonous, edible). Therefore, we are going to ignore these 2 features when selecting for training data.
 - In conclusion, the most important features for training the model include the following: odor_f, gill-size_n, odor_n, stalk-surface-above-ring_k, stalk-surface-below-ring_k, ring-type_p, bruises_f
-- <b>Therefore, we concluded the Random Forest is the best classifier to classify mushrooms among the 3 classifiers. Users are recommended the use random forest to help verify whether the mushrooms are edible or poisonous. However, users must noot overrely on the model. It is also important for users to treat the model as a reference and double check the mushrooms before consuming</b>
+- <b>Therefore, we concluded the Random Forest is the best classifier to classify mushrooms among the 3 classifiers. Users are recommended the use random forest to help verify whether the mushrooms are edible or poisonous. However, users must not overrely on the model. It is also important for users to treat the model as a reference and double check the mushrooms before consuming</b>
 - <b>Also, all 3 have attained a score of around 0.97, which we deem is good enough, we do not need to do ensembling to increase the accuracy.</b>
 
 ## What did we learn from this project?
